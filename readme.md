@@ -1,4 +1,1 @@
-brian.io
-===
-
-the source for http://brian.io
+poor mans redirect system
